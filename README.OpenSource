@@ -1,8 +1,8 @@
 [
   {
     "Name": "foreign-types",
-    "License": "Apache License V2.0, MIT",
-    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "License": "Apache License V2.0",
+    "License File": "LICENSE-APACHE",
     "Version Number": "0.3.2",
     "Owner": "xuelei3@huawei.com",
     "Upstream URL": "https://github.com/sfackler/foreign-types",
