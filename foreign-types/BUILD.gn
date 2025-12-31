@@ -25,4 +25,7 @@ ohos_cargo_crate("lib") {
   cargo_pkg_name = "foreign-types"
   cargo_pkg_description = "A framework for Rust wrappers over C APIs"
   deps = [ "//third_party/rust/crates/foreign-types/foreign-types-shared:lib" ]
+  module_output_extension = ".rlib"
+  part_name = "rust_foreign_types"
+  subsystem_name = "thirdparty"
 }
